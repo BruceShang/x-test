@@ -83,37 +83,6 @@
             </div>
           </div>
         </form>
-
-        <!--end-->
-        <!-- <form class="form form-horizontal" id="form-article-add" enctype="multipart/form-data">
-          <div class="row cl">
-            <label class="form-label col-xs-4 col-sm-2">古诗文：</label>
-            <div class="formControls col-xs-8 col-sm-9">
-              <div id="poetryArticlEdit" class="gs-editor-heigth"></div>
-            </div>
-          </div>
-          <div class="row cl">
-            <label class="form-label col-xs-4 col-sm-2">内容解析：</label>
-            <div class="formControls col-xs-8 col-sm-9">
-              <div id="contentAnalyEdit" class="gs-editor-heigth"></div>
-            </div>
-          </div>
-          <div class="row cl">
-            <label class="form-label col-xs-4 col-sm-2">输入标签(tag)：</label>
-            <div class="formControls col-xs-8 col-sm-9">
-              <div class="tagWrap" style="">
-                <input type="text" class="input-text tagsName form-control" placeholder="请输入标签" id="tagsName">
-                <div id="tagWrap" style="margin-top: 25px"></div>
-              </div>
-            </div>
-          </div>
-          <div class="row cl">
-            <div class="col-xs-8 col-sm-9 col-xs-offset-4 col-sm-offset-2">
-              <button class="btn btn-primary radius" type="button" id="subForm"><i class="Hui-iconfont">&#xe632;</i> 保存并提交审核</button>
-              <button class="btn btn-default radius" type="button">&nbsp;&nbsp;取消&nbsp;&nbsp;</button>
-            </div>
-          </div>
-        </form>-->
       </div>
     </div>
   </div>
