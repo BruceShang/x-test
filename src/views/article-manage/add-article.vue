@@ -138,7 +138,5 @@ export default {
       })
     },
   },
-  ready () {
-  },
 }
 </script>
