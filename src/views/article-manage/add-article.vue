@@ -139,12 +139,6 @@ export default {
     },
   },
   ready () {
-    /* this.quillMethods.quill1 = new Quill('#ueditor_container_1', {
-      theme: 'snow'
-    })
-    this.quillMethods.quill2 = new Quill('#ueditor_container_2', {
-      theme: 'snow'
-    })*/
   },
 }
 </script>
